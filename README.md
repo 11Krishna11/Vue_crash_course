@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+!!NOTE::::-> Don't forget to have Node Modules file in your project :)
